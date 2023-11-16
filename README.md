@@ -1,8 +1,6 @@
 # Arcade-stenosis-task
 This repo is the runner-up solution for stenosis detection task for [ARCADE challenge](https://arcade.grand-challenge.org/evaluation/final-phase-stenosis-detection-algorithm-submission/leaderboard/) at MICCAI 2023 achieving F1-score of 0.5353 on test dataset. 
 
-![image](https://github.com/bhattarailab/ARCADE-stenosis/assets/53966090/cfdb0dd9-c520-4017-880d-1b79976e607e)
-
 ![image](https://github.com/bhattarailab/ARCADE-stenosis/assets/53966090/36cb3c71-124e-41e4-9966-fa95707d47bf)
 
 

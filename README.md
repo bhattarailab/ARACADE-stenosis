@@ -9,8 +9,9 @@ Coronary Artery Diseases although preventable are one of the leading cause of mo
 
 You can explore the full details on this paper [here](https://arxiv.org/abs/2310.04749)
 
-![image](https://github.com/bhattarailab/ARCADE-stenosis/assets/53966090/e9ad11d0-7fce-4576-b485-9e9f4e56d58f)
-
+<p align="center">
+<img src="https://github.com/bhattarailab/ARCADE-stenosis/assets/53966090/e9ad11d0-7fce-4576-b485-9e9f4e56d58f">
+</p>
 
 ## Installation
 
